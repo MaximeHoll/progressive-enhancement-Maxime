@@ -1,0 +1,92 @@
+p {
+    font-family: serif;
+    font-size: medium;
+    color: rgba(20, 20, 177, 0.989);
+    line-height: normal;
+}
+
+nav {
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+a:hover {
+    color: blue;
+}
+
+a:visited {
+    color: rgb(226, 43, 43);
+}
+
+body {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background: -webkit-radial-gradient(rgb(43, 209, 63), rgb(47, 91, 135));
+    background: radial-gradient(rgb(43, 209, 63), rgb(47, 91, 135));
+    
+
+}
+
+q {
+    
+    font-size: 160%;
+    background-color: gainsboro;
+    border-left: 3px solid;
+    border-spacing: 30px;
+    font-style: italic;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+blockquote {
+    background-color: gainsboro;
+}
+
+
+head:first-child {
+    background-color: yellow;
+}
+
+span.bad {
+    text-transform: uppercase;
+    font-style: italic;
+    color: red;
+}
+
+span.good {
+    text-transform: uppercase;
+    font-style: italic;
+    color: green;
+}
+
+p.first {
+    font-weight: bold;
+}
+
+tr.pair {
+    background-color: grey;
+}
+
+tr.impair {
+    background-color: white;
+}
+
+
+
+img {
+    width: 150px;
+    height: auto;
+    float: left;
+    margin: 5%;
+}
+
+.villager {
+    border-color: brown;
+}
+
+.farmer {
+    border-color: darkgreen;
+}

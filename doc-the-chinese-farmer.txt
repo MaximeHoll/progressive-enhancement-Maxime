@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chinese farmer exercise for MH</title>
+    <link rel="stylesheet" href="./style.chine-farmer.css">
+    <h1>The Story of the Chinese Farmer</h1>
+    <img id="Porte" src="https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg" alt="Chinese farmer">
+</head>
+<body>
+    <h2>11 may 2016, Alexandre Gorius</h2>
+    <section>
+        <h3>Preamble</h3>
+        <ul>
+        <li>read this once</li>
+        <li>then read it again</li>
+        <li>then tell it to your best friend</li>
+        </ul>
+    </section>
+    <section class="text">
+        <h3>The story</h3>
+
+        <br><p class="first"> Once upon a time there was a Chinese farmer whose horse ran away. That evening, all of his neighbors came around to commiserate. They said, </p>
+        
+        <br><q class="villager">We are so sorry to hear your horse has run away. This is most unfortunate.</q> 
+        
+        <br><p>The farmer said, </p> 
+        
+        <br><strong><q class="farmer">Maybe.</q></strong> 
+        
+        <br><p>The next day the horse came back bringing seven wild horses with it, and in the evening everybody came back and said, </p>
+        
+        <br><q class="villager">Oh, isn’t that lucky. What a great turn of events. You now have eight horses!</q> 
+        
+        <br> <p>The farmer again said,</p> 
+        
+        <br><strong><q class="farmer">Maybe.</q></strong>
+        
+        <br><p>The following day his son tried to break one of the horses, and while riding it, he was thrown and broke his leg. The neighbors then said,</p>
+            
+        <br><q class="villager">Oh dear, that’s too <span class="bad">bad</span>,</q> 
+        
+        <br><p>and the farmer responded, </p>
+        
+        <br><strong><q class="farmer">Maybe.</q></strong> 
+        
+        <br><p> On the next day the conscription officers came around to conscript people into the army, and they rejected his son because he had a broken leg. Again all the neighbors came around and said, </p>
+        
+        <br><q class="villager">Isn’t that great!</q> 
+        
+        <br><p>Again, he said, </p>
+        
+        <br><strong><q class="farmer">Maybe.</q></strong>
+        
+        <br><blockquote>The whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is <span class="good">good</span> or <span class="bad">bad</span> — because you never know what will be the consequence of the misfortune; or, you never know what will be the consequences of <span class="good">good</span>fortune.
+        
+        
+        <br>
+        <br>
+        <span> Alan Watts </span></blockquote>
+    </section>
+    <section>
+        <h3>Here is this dialog in the form of a table</h3>
+        <table>
+            <tr class="impair">
+                <td>Event</td>
+                <td><span class="good">Good</span> or <span class="bad">Bad</span>?</td>
+            </tr>
+            <tr class="pair">
+                <td>Lose a horse</td>
+                <td><strong>Maybe</strong></td>
+            </tr>
+            <tr class="impair">
+                <td>Win more horses</td>
+                <td><strong>Maybe</strong></td>
+            </tr>
+            <tr class="pair">
+                <td>Son injury</td>
+                <td><strong>Maybe</strong></td>
+            </tr>
+            <tr class="impair">
+            <td>Avoid war</td>
+            <td><strong>Maybe</strong></td>
+            </tr>
+        
+        </table>
+        <p>Table representing the farmer's philosophy.</p>
+    </section>
+    <section>
+        <h3>Conclusion</h3>
+        <p><span class="good">Good</span> and <span class="bad">Bad</span> are just one perspective. Bananas are <span class="good">good</span> for monkeys, but monkeys are not <span class="good">good</span> for bananas. Let's not make a big deal out of it...</p>
+    </section>
+</body>
+<footer>
+    <p> Just Another Company 2017. All right reserved. Adapted from this article: <a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/">The Chinese Farmer</a> </p>
+    <nav>
+        <a href="https://en.wikipedia.org/wiki/Farmer" title="Explanation of what being a farmer is like">What is a farmer?</a>
+        <br>
+        <br>
+        <a href="https://en.wikipedia.org/wiki/Beyond_Good_and_Evil" title="A famous philosopher describes the notions of Good and Evil">What are Good and Evil?</a>
+    </nav>
+</footer>
+</html>
+
+
